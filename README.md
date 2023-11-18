@@ -4,7 +4,7 @@
   
 - 🌱 I'm currently learning C++ and Web Development.
   
-- 📫 You can currently reach me at carlos52.7624@gmail.com!.
+- 📫 You can currently reach me at carlos52.7624@gmail.com! (do not put the exclamation sign).
 
 <!---
 MoralesMortales/MoralesMortales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
