@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Carlos Morales
   
-- 🦅 I'm interested in learning everything related to full-stack development and exploring additional programming languages that could be useful for improving my productivity.
+- 🦅 I'm interested in learning everything related to full-stack development and exploring additional programming languages that could be useful for me.
   
 - 🌱 I'm currently learning C++, Python and Web Development.
   
