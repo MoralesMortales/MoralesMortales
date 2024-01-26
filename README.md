@@ -7,5 +7,3 @@
 - ✨ Soon I'll be learning Kotlin and Figma
   
 - 📫 You can currently reach me at carlos52.7624@gmail.com .
-
-- Hoping you have a great day!
