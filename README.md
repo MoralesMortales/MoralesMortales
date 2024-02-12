@@ -11,6 +11,5 @@
 <div align="center">
 
 <h2> Find more about me in my website!</h2>
->
-> https://moralesmortales.github.io/Me/
+https://moralesmortales.github.io/Me/
 </div>
