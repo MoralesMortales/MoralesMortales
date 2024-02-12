@@ -9,8 +9,8 @@
 - 📫 You can currently reach me at carlos52.7624@gmail.com .
 <br><br>
 <div align="center">
-> [!NOTE]  
-> Find more about me in my website!
+
+<h2> Find more about me in my website!</h2>
 >
 > https://moralesmortales.github.io/Me/
 </div>
