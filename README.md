@@ -1,5 +1,6 @@
-> .[!NOTE] Website introducing myself
- www.xdxd.com
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
 
 
 - 👋 Hi there, I’m Carlos Morales
