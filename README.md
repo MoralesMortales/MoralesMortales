@@ -1,8 +1,3 @@
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
-
-
 - 👋 Hi there, I’m Carlos Morales
   
 - 🦅 I'm interested in learning everything related to full-stack development and exploring additional programming languages that could be useful for me.
@@ -12,4 +7,9 @@
 - ✨ Soon I'll be learning Kotlin and Figma
   
 - 📫 You can currently reach me at carlos52.7624@gmail.com .
+
+> [!WEBSITE]  
+> Find more about me in my website
+>
+> https://moralesmortales.github.io/Me/
 
