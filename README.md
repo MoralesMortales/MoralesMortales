@@ -10,6 +10,6 @@
 <br><br>
 <div align="center">
 
-<h2> Find more about me in my website!</h2>
+<h2> Find more about me in my Website!</h2>
 https://moralesmortales.github.io/Me/
 </div>
