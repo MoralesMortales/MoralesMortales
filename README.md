@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Carlos Morales.
+- 👋 Hi there, I am Carlos Morales.
   
 - 🦅 I'm interested in learning everything related to full-stack development and exploring additional programming languages.
   
