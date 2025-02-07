@@ -124,17 +124,7 @@
 </a>
 
 <br>
-<br><br>
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moralesmortales&show_icons=true&locale=en" alt="moralesmortales" /></p> 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moralesmortales&show_icons=true&locale=en&layout=compact" alt="moralesmortales" /></p>
-
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 
 <h3 align="left">Connect with me:</h3>
 
