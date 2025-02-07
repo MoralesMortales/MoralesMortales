@@ -1,5 +1,9 @@
 <h1 align="center">I'm Carlos Morales</h1>
 <h3 align="center">A passionate full-stack developer</h3>
+<br>
+<h3>Languages I manage</h3>
+<h3>Spanish (C2) 🇪🇸 - English (C1) 🇬🇧 - German (A2) 🇩🇪</h3>
+<br>
 
 <h3 align="lehttps://bashlogo.com/img/symbol/png/monochrome_light.pngft">My Main Languages:</h3>
 
