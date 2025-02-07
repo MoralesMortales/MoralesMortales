@@ -106,7 +106,10 @@ __
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a> 
-
+__
+<a href="https://chatgpt.com/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" alt="Chat GPT" width="40" height="40"/> 
+</a> 
 <br><br>
 
 <h3 align="left">Things that I want to Learn:</h3>
