@@ -2,7 +2,9 @@
 <h3 align="center">A passionate full-stack developer</h3>
 <br>
 <h3>Languages I manage</h3>
-<h3>Spanish (C2) 🇪🇸 - English (C1) 🇬🇧 - German (A2) 🇩🇪</h3>
+<h3>- Spanish (C2) 🇪🇸
+<br><br>- English (C1) 🇬🇧
+<br><br>- German (A2) 🇩🇪</h3>
 <br>
 
 <h3 align="lehttps://bashlogo.com/img/symbol/png/monochrome_light.pngft">My Main Languages:</h3>
