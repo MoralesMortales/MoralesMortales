@@ -3,13 +3,10 @@
 <h1>I'm Carlos Morales !</h1>
 <h3 align="center"></h3>
 <h3 align="">A passionate full-stack developer</h3>
+<br>
 
+   [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://moralesmortales.github.io/professional)
 
- <a href="https://moralesmortales.github.io/professional">   
-   
-   ![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
-</a>
-<br> 
 
 ## 🌟 About Me
 
