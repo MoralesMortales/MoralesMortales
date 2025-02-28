@@ -1,11 +1,16 @@
-<h1>👋 - Hi There</h1>
-<h3 align="center">I'm Carlos Morales !</h3>
-<h3 align="center">A passionate full-stack developer</h3>
+![Banner image](BANNER.png)
+<img src="https://komarev.com/ghpvc/?username=MoralesMortales"> [![committers.top badge](https://user-badge.committers.top/venezuela/MoralesMortales.svg)](https://user-badge.committers.top/venezuela/MoralesMortales)
+<h1>I'm Carlos Morales !</h1>
+<h3 align="center"></h3>
+<h3 align="">A passionate full-stack developer</h3>
 
 
-<img src="https://komarev.com/ghpvc/?username=MoralesMortales"> [![committers.top badge](https://user-badge.committers.top/venezuela/MoralesMortales.svg)](https://user-badge.committers.top/venezuela/MoralesMortales) <a href="https://moralesmortales.github.io/professional">
-  ![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+ <a href="https://moralesmortales.github.io/professional">   
+   
+   ![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 </a>
+<br> 
+
 ## 🌟 About Me
 
 - 💻 I specialize in Website Development (currently), but I also enjoy exploring other technologies as well.
@@ -24,13 +29,13 @@
 | **Code Editors**  | ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 | **Other Tools**   | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)                                                                                                                                                                        |
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoralesMortales&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoralesMortales&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ## 🌐 My Languages 
 
 - **Spanish:** Native - (C2) 🇪🇸
 - **English:** Advanced - (C1) 🇬🇧
 - **German:** Beginner - (A2) 🇩🇪
-
-<hr>
-
-[![committers.top badge](https://user-badge.committers.top/venezuela/MoralesMortales.svg)](https://user-badge.committers.top/venezuela/MoralesMortales) 
