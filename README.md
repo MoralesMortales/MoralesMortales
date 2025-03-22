@@ -12,7 +12,7 @@
 
 - 💻 I specialize in Website Development (currently), but I also enjoy exploring other technologies as well.
 - 🚀 I'm always eager to learn new things and take on new challenges.
-- 🎓 I am Learning machine Learning with Python at the moment, stay on tune to find my progress!.
+- 🎓 I am Learning machine Learning with Python at the moment, stay on tune to find out my progress!.
 
 ## 🛠️ Tech Stack
 
