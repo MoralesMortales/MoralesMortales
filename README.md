@@ -35,6 +35,6 @@
 
 ## 🌐 My Languages 
 
-- **Spanish:** Native - (C2) 🇪🇸
-- **English:** Advanced - (C1) 🇬🇧
-- **German:** Beginner - (A2) 🇩🇪
+- **Spanish:** Native - (C2) 
+- **English:** Advanced - (C1)
+- **German:** Beginner - (A2) 
