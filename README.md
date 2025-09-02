@@ -37,4 +37,4 @@
 
 - **Spanish:** Native - (C2) 
 - **English:** Advanced - (C1)
-- **German:** Beginner - (A2) 
+- **German:** Beginner - (B1) 
